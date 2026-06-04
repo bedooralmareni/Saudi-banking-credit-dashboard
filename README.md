@@ -2,10 +2,10 @@
 
 > An interactive Power BI dashboard analyzing **28 years of Saudi banking data** across economic sectors, residential mortgages, and consumer lending — powered by official data from the Saudi Central Bank (SAMA).
 
-![dashboard](screenshots/Screenshot 2026-06-04 100423.png)
-![dashboard](screenshots/Screenshot 2026-06-04 100451.png)
-![dashboard](screenshots/Screenshot 2026-06-04 100528.png)
-![dashboard](Screenshot 2026-06-04 100552.png)
+![Dashboard](screenshots/Screenshot%202026-06-04%20100423.png)
+![Dashboard](screenshots/Screenshot%202026-06-04%20100451.png)
+![Dashboard](screenshots/Screenshot%202026-06-04%20100528.png)
+![Dashboard](screenshots/Screenshot%202026-06-04%20100552.png)
 
 ---
 
