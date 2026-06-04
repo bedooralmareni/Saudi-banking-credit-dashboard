@@ -2,10 +2,10 @@
 
 > An interactive Power BI dashboard analyzing **28 years of Saudi banking data** across economic sectors, residential mortgages, and consumer lending — powered by official data from the Saudi Central Bank (SAMA).
 
-![dashboard](C:\Users\bedoor.alsulami\AppData\Local\Packages\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\AppData\Saudi-banking-credit-dashboard\screenshots\Screenshot 2026-06-04 100423.png)
-![dashboard](C:\Users\bedoor.alsulami\AppData\Local\Packages\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\AppData\Saudi-banking-credit-dashboard\screenshots\Screenshot 2026-06-04 100451.png)
-![dashboard](C:\Users\bedoor.alsulami\AppData\Local\Packages\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\AppData\Saudi-banking-credit-dashboard\screenshots\Screenshot 2026-06-04 100528.png)
-![dashboard](C:\Users\bedoor.alsulami\AppData\Local\Packages\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\AppData\Saudi-banking-credit-dashboard\screenshots\Screenshot 2026-06-04 100552.png)
+![dashboard](Saudi-banking-credit-dashboard/screenshots/Screenshot 2026-06-04 100423.png)
+![dashboard](Saudi-banking-credit-dashboard/screenshots/Screenshot 2026-06-04 100451.png)
+![dashboard](Saudi-banking-credit-dashboard/screenshots/Screenshot 2026-06-04 100528.png)
+![dashboard](Saudi-banking-credit-dashboard/screenshots/Screenshot 2026-06-04 100552.png)
 
 ---
 
