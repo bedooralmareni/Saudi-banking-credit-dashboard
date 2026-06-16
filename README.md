@@ -1,15 +1,13 @@
-# 🏦 Saudi Banking Credit Intelligence Dashboard
+# Saudi Banking Credit Intelligence Dashboard
 
 > An interactive Power BI dashboard analyzing **28 years of Saudi banking data** across economic sectors, residential mortgages, and consumer lending — powered by official data from the Saudi Central Bank (SAMA).
 
-![Dashboard](screenshots/Screenshot%202026-06-04%20100423.png)
-![Dashboard](screenshots/Screenshot%202026-06-04%20100451.png)
-![Dashboard](screenshots/Screenshot%202026-06-04%20100528.png)
-![Dashboard](screenshots/Screenshot%202026-06-04%20100552.png)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811)
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This interactive Power BI dashboard provides a comprehensive analysis of Saudi Arabia's banking credit landscape, examining three key dimensions of bank lending using official data from the Saudi Central Bank (SAMA):
 
@@ -19,7 +17,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Saudi A
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Power BI Desktop** — Dashboard development and visualization
 - **Power Query (M Language)** — Data extraction, cleaning, and unpivoting
@@ -37,7 +35,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Saudi A
 
 ---
 
-## 📥 Data Source
+## Data Source
 
 **Source:** [Saudi Central Bank (SAMA) — Monthly Statistical Bulletin](https://www.sama.gov.sa/en-US/Publications/EconomicReports/Pages/report.aspx?cid=55)
 
@@ -59,10 +57,12 @@ This interactive Power BI dashboard provides a comprehensive analysis of Saudi A
 
 ---
 
-## 📸 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1: Landing Page
 Project introduction with navigation to detailed analysis pages.
+
+![Dashboard](screenshots/Screenshot%202026-06-04%20100423.png)
 
 ### Page 2: Economic Activity Analysis (2021–2025)
 - Total bank credit trends across 17 economic sectors
@@ -70,11 +70,15 @@ Project introduction with navigation to detailed analysis pages.
 - Year-over-year growth analysis
 - Top performing sector identification
 
+![Dashboard](screenshots/Screenshot%202026-06-04%20100451.png)
+
 ### Page 3: Mortgage Market Analysis (2018–2025)
 - Residential financing trends over Vision 2030 era
 - Property type distribution (Houses, Apartments, Land)
 - Mortgage market boom-and-correction story
 - Dynamic insights with property type dominance
+
+![Dashboard](screenshots/Screenshot%202026-06-04%20100528.png)
 
 ### Page 4: Consumer Lending Behavior (1998–2025)
 - **28-year consumer credit evolution** — the longest dataset
@@ -82,9 +86,11 @@ Project introduction with navigation to detailed analysis pages.
 - Detailed category breakdown (2016+)
 - Vision 2030 era acceleration analysis
 
+![Dashboard](screenshots/Screenshot%202026-06-04%20100552.png)
+
 ---
 
-## 🔍 Key Insights Discovered
+## Key Insights Discovered
 
 ### Economic Activity (2021–2025)
 - **60% growth** in total bank credit over 5 years
@@ -106,7 +112,7 @@ Project introduction with navigation to detailed analysis pages.
 
 ---
 
-## 💡 Methodology Notes
+## Methodology Notes
 
 ### Handling Data Limitations
 
@@ -127,17 +133,11 @@ Source data is in Millions SAR. To improve readability without losing accuracy, 
 
 ---
 
-**Connect with me:**
-- 📧 Email: Bedooralmareni@gmail.com
-- 🔗 LinkedIn: [Bedoor Alsulami](https://www.linkedin.com/in/bedoor-alsulami)
-
----
-
 **Data Attribution:** All data sourced from the Saudi Central Bank (SAMA). This project is for educational and portfolio purposes only. Original data remains the property of SAMA.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Saudi Central Bank (SAMA)** for providing comprehensive public financial data
 - **Microsoft Power BI Community** for tutorials, forums, and inspiration
